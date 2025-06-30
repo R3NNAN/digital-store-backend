@@ -1,10 +1,3 @@
-Perfeito! Abaixo está a **versão completa** do `README.md`, incluindo:
-
-* Instruções para **deploy local**
-* Definição de **variáveis de ambiente**
-* Orientações básicas para **testes manuais**
-
-````markdown
 # Digital Store Backend 🛒
 
 API backend em Node.js/Express para gerenciamento de produtos e carrinhos de compras, persistindo dados em arquivos JSON.
